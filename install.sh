@@ -15,4 +15,3 @@ dokku plugin:install https://github.com/dokku/dokku-mongo.git
 dokku plugin:install https://github.com/dokku/dokku-memcached.git
 dokku plugin:install https://github.com/dokku/dokku-redis.git
 dokku plugin:install https://github.com/josegonzalez/dokku-volume.git
-curl -s https://shipyard-project.com/deploy | bash -s
